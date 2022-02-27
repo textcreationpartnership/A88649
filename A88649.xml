@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands command on the seas, or, The English seas guarded. Wherein is proved that as the Venetians, Portugals, Spaniards, French, Danes, Polands, Turks, the Duke of Tuscany, and the popes of Rome have dominion on their seas; so the Common-wealth of England hath on our seas. : Wherein the Dutch unjust procuration and prosecution of war against England is also described.</title>
+            <author>Lupton, Donald, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 59 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88649</idno>
+            <idno type="STC">Wing L3489</idno>
+            <idno type="STC">ESTC R180274</idno>
+            <idno type="EEBO-CITATION">45504493</idno>
+            <idno type="OCLC">ocm 45504493</idno>
+            <idno type="VID">171810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171810)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2592:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands command on the seas, or, The English seas guarded. Wherein is proved that as the Venetians, Portugals, Spaniards, French, Danes, Polands, Turks, the Duke of Tuscany, and the popes of Rome have dominion on their seas; so the Common-wealth of England hath on our seas. : Wherein the Dutch unjust procuration and prosecution of war against England is also described.</title>
+                  <author>Lupton, Donald, d. 1676.</author>
+               </titleStmt>
+               <extent>[10], 106 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jos. Blaik-lock in Ivie-lane ... ,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle dedicatory" signed: Donald Lupton.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  1649-1660 --  Sources.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171810:1" rendition="simple:additions"/>
+            <p>Englands Command ON THE SEAS, OR, The Engliſh Seas GUARDED.</p>
+            <p>
+               <hi>Wherein is proved that as the</hi> Venetians, Portugals, Spaniards, French, Danes, Polands, Turks, <hi>the Duke of</hi> Tuſcany, <hi>and the Popes of</hi> Rome <hi>have Dominion on their Seas; So the Common-wealth of</hi> England <hi>hath on our Seas.</hi>
+            </p>
+            <p>
+               <hi>Wherein the</hi> Dutch <hi>unjuſt procuration and proſecution of War againſt</hi> England <hi>is alſo deſcribed.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Lucan. de Bello Civili pharſ.</hi> 4.</bibl>
+               <l>Sic Venetus ſtagnante Pado, fuſo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Britannus Navigat Oceano —</l>
+            </q>
+            <p>
+               <hi>That is,</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Venice</hi> her Gulf and River <hi>Po</hi> doth keep:</l>
+               <l>The <hi>Engliſh</hi> on the Ocean vaſt and deep.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Joſ. Blaik-lock</hi> in <hi>Ivie<g ref="char:EOLhyphen"/>lane,</hi> next doore to the ſigne of the <hi>Acorne,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb facs="tcp:171810:2" rendition="simple:additions"/>
+            <pb facs="tcp:171810:2"/>
+            <head>To the Right Ho<g ref="char:EOLhyphen"/>nourable the Council of State.</head>
+            <opener>
+               <salute>Grave Senators,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>reſents</hi> are accepted, not for their <hi>bulk,</hi> but for their <hi>Virtue;</hi> thoſe ſmaller <hi>Offerings</hi> from <hi>mean</hi> per<g ref="char:EOLhyphen"/>ſons were under
+<pb facs="tcp:171810:3"/>the <hi>Law;</hi> not on<g ref="char:EOLhyphen"/>ly <hi>appointed,</hi> but approved off by God himſelf; the <hi>Intention</hi> not the <hi>perſon</hi> commends the <hi>Gift: the grea<g ref="char:EOLhyphen"/>ter</hi> may be more <hi>Specious, the leſse</hi> more <hi>precious;</hi> E<g ref="char:EOLhyphen"/>ven the Widdows <hi>two mites,</hi> were not only not rejected
+<pb facs="tcp:171810:3"/>but received and commended by Chriſt himſelf.</p>
+            <p>Vpon theſe I gathered courage and confidence to Offer this ſmall Tract to Your Noble Protection: who have ſuffici<g ref="char:EOLhyphen"/>ent Ability to De<g ref="char:EOLhyphen"/>fend it from In<g ref="char:EOLhyphen"/>jury.</p>
+            <pb facs="tcp:171810:4"/>
+            <p>And I hope Your Honours will be willing to afford it your Ac<g ref="char:EOLhyphen"/>ceptance; It ſpea<g ref="char:EOLhyphen"/>king but what's true, and needfull at this preſent; It ſhews what other Nations have done, and to their utmoſt uphold, what this Land hath in former
+<pb facs="tcp:171810:4"/>times rightly and powerfully per<g ref="char:EOLhyphen"/>formed by our vi<g ref="char:EOLhyphen"/>ctorious Navies at Sea; and as tis ho<g ref="char:EOLhyphen"/>ped and expected will be as reſolute<g ref="char:EOLhyphen"/>ly and powerfully Continued and Augmented by Your ſolid Wiſe<g ref="char:EOLhyphen"/>dome, Your hap<g ref="char:EOLhyphen"/>py and ſucceſſeful Government. It
+<pb facs="tcp:171810:5"/>layes open thoſe ſubtile and Inva<g ref="char:EOLhyphen"/>ding Enemies the Dutch; with their unjuſt attempts a<g ref="char:EOLhyphen"/>gainſt us of this Nation, together with the manifold miſeries our Land will be ſubject un<g ref="char:EOLhyphen"/>to in a ſhort time, if our Seas be de<g ref="char:EOLhyphen"/>barred us by that Inſolent people.</p>
+            <pb facs="tcp:171810:5"/>
+            <p>So praying that God would ſpeci<g ref="char:EOLhyphen"/>ally Aſsiſt and al<g ref="char:EOLhyphen"/>wayes Direct you in all Your Hono<g ref="char:EOLhyphen"/>rable and Weigh<g ref="char:EOLhyphen"/>ty Conſultations, I crave Pardon and Humbly</p>
+            <closer>
+               <signed>Am, Your Honours Servant, <hi>Donald Lupton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:171810:6"/>
+            <pb n="1" facs="tcp:171810:6"/>
+            <head>England's Com<g ref="char:EOLhyphen"/>mand on the Seas, or, The Engliſh Seas Guarded.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE might have framed a long diſcourſe con<g ref="char:EOLhyphen"/>cerning this ſubject, from ſeveral ſexts of the Word of God, which do denote and ſhew how ſeverall Na<g ref="char:EOLhyphen"/>tions and People have not onely aſſumed and exerci<g ref="char:EOLhyphen"/>ſed a Power and Domini<g ref="char:EOLhyphen"/>on upon the Seas; but it is evident that they were
+<pb n="2" facs="tcp:171810:7"/>inveſted into that Power by the bleſſing of God: We will not enlarge upon them, only we will quote ſome of many; as <hi>Numb.</hi> 34. <hi>your ſouth borderſhal be from the utmoſt Coaſt of the ſalt Sea Eaſt-ward;</hi> and v. 5. <hi>The border ſhall fetch a compaſſe unto the River of Aegypt, and the goings out of it ſhall be at the ſea.</hi> v. 6. <hi>You ſhal even have the great ſea for a border.</hi> So alſo <hi>Moſes</hi> bleſsing the ſe<g ref="char:EOLhyphen"/>verall Tribes, when he comes to <hi>Zabulon</hi> and <hi>Iſſa<g ref="char:EOLhyphen"/>car</hi> ſayes, <hi>That they ſhall ſuck of the abundance of the ſeas, and of treaſures hid in the ſand.</hi> Surely this ſhowes they ſhould have power
+<pb n="3" facs="tcp:171810:7"/>and Dominion on, and in the Seas; And <hi>Jacob</hi> when he bleſſed the Twelve Tribes, pronouncing the bleſsing upon <hi>Zabulon</hi> Gen. 49.13. ſayes plainly, yet prophetically; <hi>Zabulon ſhall dwell at the Haven of the Sea, and he ſhall be for an Haven for ſhips:</hi> And the Prophet <hi>David</hi> deſcribing the So<g ref="char:EOLhyphen"/>veraignty of Chriſt, in <hi>Pſ.</hi> 72.8. <hi>He ſhall have</hi> (ſaies he) <hi>Dominion from ſea to ſea;</hi> and alſo <hi>Pſal</hi> 89.25. <hi>I will alſo ſet his hand in the ſea, &amp; his right hand in the Ri<g ref="char:EOLhyphen"/>vers;</hi> and God by the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah,</hi> deſcribing the downfall of <hi>Tyre</hi> and <hi>Sydon</hi> and <hi>Tarſhiſh</hi> leaves not out
+<pb n="4" facs="tcp:171810:8"/>
+               <hi>her great power</hi> ſhe former<g ref="char:EOLhyphen"/>ly had on the Seas, <hi>Iſaiah</hi> 23.2, 3, 4. and alſo of <hi>Tyrus Ezechiel</hi> ſpeaks <hi>Ezech.</hi> 26.16, 17. <hi>how all the Princes of the ſea ſhall come down from their thrones, and take up a lamentation for her a<g ref="char:EOLhyphen"/>mongſt other ſayings,</hi> this is one part of their mourn<g ref="char:EOLhyphen"/>ing, <hi>the Renowned City which was ſo ſtrong in the ſea:</hi> and at cap. 27.3. <hi>Thou that art ſcituated at the entry of the ſea.</hi> V. 4. <hi>Thy borders are in the middeſt of the Seas,</hi> and the Pro<g ref="char:EOLhyphen"/>phet <hi>Nahum</hi> 3. v. 8. ſpeak<g ref="char:EOLhyphen"/>ing of <hi>Ninivees</hi> deſtruction ſayes, <hi>Art thou better then populous</hi> Noah? that was
+<pb n="5" facs="tcp:171810:8"/>ſcituate among the rivers, <hi>that had the waters round a<g ref="char:EOLhyphen"/>bout it, whoſe Rampart was the ſea, and her wall was from the ſea:</hi> theſe ſeveral Texts demonſtrate ſuffici<g ref="char:EOLhyphen"/>ently that the Seas have been allotted and allowed to ſeverall Nations, and it appears alſo, that as long as Gods bleſſing was upon a Nation, he ſtill kept up their power at Sea, ſo alſo when he intended their ru<g ref="char:EOLhyphen"/>ine and downfall, he did then weaken and take a<g ref="char:EOLhyphen"/>way thier dominion at ſea, but we intend not a Theo<g ref="char:EOLhyphen"/>logicall Tract; to leave theſe, we intend to make it plain to all our Countrey
+<pb n="6" facs="tcp:171810:9"/>men in theſe particulars following.</p>
+            <p n="1">I. How all Nations of Chriſtendome that border upon the ſeas, have, and yet do hold their power and Juriſdiction on, and in their reſpective ſeas: and more ſpecially.</p>
+            <list>
+               <item>1. The <hi>Venetians.</hi>
+               </item>
+               <item>2. The <hi>Portugals.</hi>
+               </item>
+               <item>3. The <hi>Spaniards.</hi>
+               </item>
+               <item>4. The <hi>French.</hi>
+               </item>
+               <item>5. The <hi>Danes</hi> and <hi>Nor<g ref="char:EOLhyphen"/>wayes.</hi>
+               </item>
+               <item>6. The <hi>Polanders.</hi>
+               </item>
+               <item>7. The <hi>Turks.</hi>
+               </item>
+               <item>8. The Duke of <hi>Tuſcany.</hi>
+               </item>
+               <item>9. The <hi>Popes</hi> of <hi>Rome.</hi>
+               </item>
+            </list>
+            <p n="2">II. That as all theſe Nations uphold, and to
+<pb n="7" facs="tcp:171810:9"/>their utmoſt defend their ſeverall and reſpective powers and Jurisdictions upon their ſeas: ſo it is as lawfull for the Common<g ref="char:EOLhyphen"/>wealth of <hi>England</hi> to do the like, wherein we ſhew,
+<list>
+                  <item>1. The great rule, au<g ref="char:EOLhyphen"/>thority and power of the Admitalty of <hi>England</hi> in our ſeas.</item>
+                  <item>2. That all forreigners whatſoever were wont to ask leave to paſſe and re<g ref="char:EOLhyphen"/>paſſe our ſeas, and that without leave firſt had; none durſt offer or at<g ref="char:EOLhyphen"/>tempt the paſſage over them.</item>
+                  <item>3. That all forreigners as well <hi>French,</hi> as <hi>Hollan<g ref="char:EOLhyphen"/>ders,</hi>
+                     <pb n="8" facs="tcp:171810:10"/>and <hi>Zealanders,</hi> and others: have at all times humbly asked leave of our Princes or of their officers to fiſh upon our ſeas, wherein is ſhewed alſo how glad they were to have it granted, and what ſtore of Wealth they have gotten by it.</item>
+                  <item>4. What Cuſtomes and Taxes and impoſitions have been laid upon all that had leave to fiſh.</item>
+                  <item>5. That all other Nations coming with leave upon our ſeas have ſtroke ſail or vail their Top-ſails to our ſhips of war, and to our Caſtles.</item>
+                  <item>6. The miſerable incon<g ref="char:EOLhyphen"/>veniencies
+<pb n="9" facs="tcp:171810:10"/>and dangers our Nation will in ſhort time feel and ſuffer, if we do not uphold the domi<g ref="char:EOLhyphen"/>nion at ſea againſt all In<g ref="char:EOLhyphen"/>vaders or Oppoſers, either <hi>Dutch, Danes, French,</hi> &amp;c.</item>
+                  <item>7. The injuſtice preſum<g ref="char:EOLhyphen"/>ption, and ingratitude of the <hi>Dutch</hi> made apparant to quarell us upon our ſeas by ſeverall reaſons and un<g ref="char:EOLhyphen"/>denyable Arguments and firſt <hi>viz.</hi>
+                     <list>
+                        <item>1. They begun the war.</item>
+                        <item>2. Againſt us.</item>
+                        <item>3. For our own goods and rights.</item>
+                        <item>5. By their combining with others.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <div type="part">
+               <pb n="10" facs="tcp:171810:11"/>
+               <head>Venice.</head>
+               <p>WE begin firſt with that ancient and rich State of <hi>Venice,</hi> ſci<g ref="char:EOLhyphen"/>tuated in the <hi>Adriatique Gulph,</hi> commonly called the <hi>gulph of Venice</hi> of which <hi>Zan Nazarius in lib.</hi> 1. <hi>Epi<g ref="char:EOLhyphen"/>gram</hi> ſayes,
+<q>
+                     <l>Viderat Hadriacis Venetam Neptunus in undis</l>
+                     <l>Stare urbem, &amp; toto pone<g ref="char:EOLhyphen"/>re jura mari.</l>
+                  </q>
+               </p>
+               <p>That is,
+<q>
+                     <l>Rich <hi>Venice</hi> in the <hi>Adriatick</hi> ſea doth ſtand,</l>
+                     <l>And doth by Right and Might that <hi>Gulph</hi> com<g ref="char:EOLhyphen"/>mand.</l>
+                  </q>
+               </p>
+               <pb n="11" facs="tcp:171810:11"/>
+               <p>It cannot he denyed ſayes a good Writer, but that of Ancient time, the <hi>Venetians</hi> and their <hi>Seigniorie</hi> have been poſſeſſors and Lords of their Gulph, and there<g ref="char:EOLhyphen"/>fore the <hi>Venetians</hi> by an undoubted right may juſt<g ref="char:EOLhyphen"/>ly forbid the <hi>Genoeſes</hi> and any others from coming upon, or ſailing through their Gulph. <hi>Angelus de <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>baldis. de jur. Fiſci. lib.</hi> 8. §. 14.</p>
+               <p>There wants not ſuffici<g ref="char:EOLhyphen"/>ent examples to ſhew how other Princes and Poten<g ref="char:EOLhyphen"/>tates have asked leave of this State to paſſe and re<g ref="char:EOLhyphen"/>paſſe their ſeas: which they have ſometimes granted to
+<pb n="12" facs="tcp:171810:12"/>ſome, and ſometimes de<g ref="char:EOLhyphen"/>nyed to others.</p>
+               <p>They granted it to <hi>Ralph</hi> Earl of <hi>Sales Anno</hi> 1399. In the name of <hi>Ladiſlaus</hi> K. of <hi>Naples</hi> &amp; <hi>W.</hi> Arch-duke of <hi>Auſtria</hi> to convey the ſiſter of that King eſpouſed to the Arch-Duke out of <hi>A<g ref="char:EOLhyphen"/>pulia</hi> into the Arch-Dukes Territories, yet though they granted it, they made conditions, and ſome ex<g ref="char:EOLhyphen"/>preſſions concerning the quality of ſome perſons not to be then tranſported, as alſo the bignes and qua<g ref="char:EOLhyphen"/>lity of the ſhips to be con<g ref="char:EOLhyphen"/>ſidered. <hi>Franciſ. de inge<g ref="char:EOLhyphen"/>nuis in Epiſt. de Venet. jure.</hi>
+               </p>
+               <pb n="13" facs="tcp:171810:12"/>
+               <p>And ſo <hi>Frederick</hi> the third though an Emperour did ask leave twice of this State of <hi>Venice</hi> to carry and tranſport corn out of <hi>Apu<g ref="char:EOLhyphen"/>lia</hi> through their Gulph.</p>
+               <p>As alſo of the Kings of <hi>Hungary</hi> have petitioned this State of <hi>Venice</hi> to grant leave for to tranſport corn through their Gulph. <hi>An<g ref="char:EOLhyphen"/>ton peregri. de jure fiſci. lib.</hi> 8. <hi>Sect.</hi> 19.</p>
+               <p>So alſo the <hi>Venetians</hi> have and do yet make thoſe that come upon the Gulph to pay Cuſtome and Tribute, and that upon default they have power to confiſcate ſuch Goods and Merchan<g ref="char:EOLhyphen"/>diſes, and to impoſe the
+<pb n="14" facs="tcp:171810:13"/>Gabel upon them, for they acknowledge none ſuperi<g ref="char:EOLhyphen"/>or to themſelves, and this is, as the Authour ſayes, <hi>quia tantam habent juriſdi<g ref="char:EOLhyphen"/>ctionem in mari:</hi> becauſe of their ample Juriſdiction and power they have in the ſea, eſpecially the Gulph, <hi>Bartho. Caepola. cap.</hi> 26.</p>
+               <p>So another, tis to be con<g ref="char:EOLhyphen"/>cluded (ſayes he) that all fiſhing and whatſoever be<g ref="char:EOLhyphen"/>longs unto it, in the <hi>Adria<g ref="char:EOLhyphen"/>tick</hi> ſea doth of right ap<g ref="char:EOLhyphen"/>pertain to the State of <hi>Ve<g ref="char:EOLhyphen"/>nice,</hi> and conſequently, that State hath ſole, and abſo<g ref="char:EOLhyphen"/>lute power, either to per<g ref="char:EOLhyphen"/>mit, or forbid any; to im<g ref="char:EOLhyphen"/>poſe,
+<pb n="15" facs="tcp:171810:13"/>heighten or leſſen the <hi>Gabel</hi> upon all ſorts of fiſh<g ref="char:EOLhyphen"/>ers, <hi>Anton. peregrin. de jure fiſci. lib.</hi> 10. §. 18.</p>
+               <p>And a great Civil Lawyer even an Adverſary to that Common-wealth, for (he was of <hi>Naples</hi>) yet confeſ<g ref="char:EOLhyphen"/>ſes plainly that the <hi>Veneti<g ref="char:EOLhyphen"/>ans</hi> for certain have the Rule and Dominion of their Gulph, and proporti<g ref="char:EOLhyphen"/>ons how far it reacheth al<g ref="char:EOLhyphen"/>ſo. <hi>Julius pacius Marta.</hi>
+               </p>
+               <p>And <hi>Plavius Blondus</hi> af<g ref="char:EOLhyphen"/>firmes that the <hi>Venetians</hi> have had alwayes power to proportion Cuſtome, to ſuch who ſaile on their Gulph. And for this pur<g ref="char:EOLhyphen"/>poſe to prevent all fraud
+<pb n="16" facs="tcp:171810:14"/>and deceit, they appoint<g ref="char:EOLhyphen"/>ed a State Officer and fur<g ref="char:EOLhyphen"/>niſhed him with ſufficient Barks and Veſſels to de<g ref="char:EOLhyphen"/>mand it, and to ſail from ſhore to ſhore, and from port to port by night and day to ſee it effected accor<g ref="char:EOLhyphen"/>dingly. <hi>Decad</hi> 2. <abbr>
+                     <hi>l.</hi>
+                  </abbr> 8.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:171810:14"/>
+               <head>Of the Spaniſh and Portugalls Dominion.</head>
+               <p>FOr the <hi>Portugals,</hi> as they have been great Merchants on the South and Eaſtern Seas, ſo they alwayes provided to keep up their Cuſtomes concer<g ref="char:EOLhyphen"/>ning their priviledges on their ſeas. What can be meant elſe by their inflict<g ref="char:EOLhyphen"/>ing death on ſuch as ſhall offend, &amp; co<g ref="char:cmbAbbrStroke">̄</g>fiſcation of all their Goods beſide, witnes that Edict and ſtrict Ordi<g ref="char:EOLhyphen"/>nance publiſhed, which runs in theſe words, who<g ref="char:EOLhyphen"/>ever
+<pb n="18" facs="tcp:171810:15"/>ſhall come into our Coaſts, Lands, or Regions; eſpecially thoſe of <hi>Gumy</hi> &amp; <hi>India,</hi> or into thoſe Seas, or into any other Seas under our ſubjection; either for Commerce, Trading, Na<g ref="char:EOLhyphen"/>vigation; or, who ſhall come with Arms and Am<g ref="char:EOLhyphen"/>munition to fight without out leave, licence, and au<g ref="char:EOLhyphen"/>thority firſt had and obtai<g ref="char:EOLhyphen"/>ned, ſhall for ſo doing and attempting, looſe his, or their heads, and ſuffer con<g ref="char:EOLhyphen"/>fiſcation of all his, or their goods: and though there have been, and yet are ſome who have queſtioned and ſcrupled at the large ex<g ref="char:EOLhyphen"/>tent of the <hi>Portugals</hi> power
+<pb n="19" facs="tcp:171810:15"/>upon the South-ſeas, and thoſe of <hi>India,</hi> as uſurped; yet they ſtill hold them, and will uphold their ſea<g ref="char:EOLhyphen"/>cuſtoms and priviledges, as well knowing the riches, ſafety, and benefit of them.</p>
+               <p>And to the Defending their juriſdiction on the Seas, they give power to their Admiral to ſearch and finde out ſuch as ſhall any where reſiſt, and to ſcoure their ſeas; and if they finde any offending, or denying obedience, to force them to it, and call them to triall if taken: <hi>Jacob. Valdeſius quin<g ref="char:EOLhyphen"/>to lib. de ordinacones tit.</hi> 112.</p>
+               <p>Next, let us ſearch what the <hi>Spanyards</hi> hold con<g ref="char:EOLhyphen"/>cerning
+<pb n="20" facs="tcp:171810:16"/>their Right and Juriſdiction on their Seas. <hi>Gregorius Lopez. partid.</hi> 3. <hi>tit.</hi> 28. <hi>lib.</hi> 11. The Prince ſaith he, by his power may give Liberty or Licence to fiſh in ſome part of his Sea; but without leave, twas dangerous and fearfull: And another Writer ſayes, the Dominion of the Sea, belongs to him or them, on whoſe Borders it lies. <hi>Gar<g ref="char:EOLhyphen"/>cias Hiſp. lib. de expen. Cap.</hi> 21. <hi>num.</hi> 24.</p>
+               <p>But more remarkable is that title given to the King of <hi>Spain,</hi> ſtiling him the King of the Ocean; this is known by that of <hi>Charls</hi> the fifth, Emperour of <hi>Ger<g ref="char:EOLhyphen"/>many</hi>
+                  <pb n="21" facs="tcp:171810:16"/>and King of <hi>Spain:</hi> In the Preface for the ſet<g ref="char:EOLhyphen"/>ling of publike judgments in his Empire, he is ſtiled king of the Iſlands, Canaries and of the <hi>India</hi> Iſlands, of the ſeas, and the main Oce<g ref="char:EOLhyphen"/>an and firm Land, Arch-Duke of <hi>Auſtria,</hi> &amp;c. and in the Imperial Charters and Decrees in the Ger<g ref="char:EOLhyphen"/>main tongue. <hi>Konig. up de Inſulen Canariae Auch der Inſulen Indiarum un terrae firmoe, deſſ Maers, Oceani, &amp;c. Seldenus in Mare Clau<g ref="char:EOLhyphen"/>ſum, cap.</hi> 17. <hi>p.</hi> 74.</p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:171810:17"/>
+               <head>Of the French.</head>
+               <p>THere is not any Nati<g ref="char:EOLhyphen"/>on who ſeems ſo ſtout to defend their Sea-right as the French; yet they of all others have leſt perfor<g ref="char:EOLhyphen"/>med it; for during not on<g ref="char:EOLhyphen"/>ly the Wars, but the time of the Soveraignty of the Kings of <hi>England</hi> in that Nation; the French who could not, nor durſt fight us at Land, had leſſe power and will to affront us at Sea: but yet there want not Teſtimonials of their Priviledges, uſed a<g ref="char:EOLhyphen"/>gainſt ſuch as ſhould in<g ref="char:EOLhyphen"/>trench
+<pb n="23" facs="tcp:171810:17"/>upon them at Sea; and for certain 'tis, though a Nation may for a time be debarred its juſt Domini<g ref="char:EOLhyphen"/>on of the Sea, by an over<g ref="char:EOLhyphen"/>powering Sword; yet they will endeavour to recover their Rights, Po<g ref="char:EOLhyphen"/>wer, Priviledges and Juriſ<g ref="char:EOLhyphen"/>diction again: To ſpeak therefore of theſe a little, may we not follow the footſteps of them, who have in part diſcovered in theſe particulars the Cu<g ref="char:EOLhyphen"/>ſtoms of the French con<g ref="char:EOLhyphen"/>cerning their Seas.</p>
+               <p>
+                  <hi>Capitular.</hi> 169. <hi>Caroli &amp; Ludovici Impp. lib.</hi> 4. <hi>tit.</hi> 5.
+<pb n="24" facs="tcp:171810:18"/>Concerning thoſe Counts or Earls deputed and in<g ref="char:EOLhyphen"/>truſted for the cuſtody of the Sea-coaſt, and more eſpecially one <hi>Rolland,</hi> Ad<g ref="char:EOLhyphen"/>miral for the Coaſt of <hi>Brit<g ref="char:EOLhyphen"/>taigne,</hi> in the time of <hi>Char<g ref="char:EOLhyphen"/>le-maign,</hi> is to be ſeen, that he did then impoſe Taxes, Tributes, or Cuſtoms upon ſuch who traded on their Seas, and put into any of their Ports; and not onely defended the right of their Action, but alſo added pu<g ref="char:EOLhyphen"/>niſhment to any that tranſ<g ref="char:EOLhyphen"/>greſſed; So alſo did thoſe of <hi>Lyons</hi> under their Prince, <hi>Alan</hi> and others; and if any came in, or departed with<g ref="char:EOLhyphen"/>out leave of the Prince, or
+<pb n="25" facs="tcp:171810:18"/>his Admiral, there was then a publick confiſcation of ſuch ſhip, or ſhips with their materialls, and if they did ſuffer ſhipwrack; that ſuch Merchandiſe as could be recovered ſhould he pil<g ref="char:EOLhyphen"/>lage: but if they had leave to put out to ſea, then if any ſtorm aroſe, or if they did miſcarry, yet the goods that could be ſaved, ſhould belong to the Owner. <hi>Ber<g ref="char:EOLhyphen"/>trandns in Hiſtor. Brit. mi<g ref="char:EOLhyphen"/>nor lib.</hi> 1. <hi>cap.</hi> 13.</p>
+               <p>And nothing is more certain, then in the League betwixt our <hi>Edward</hi> the fourth, and <hi>Francis</hi> Duke of <hi>Bretaigne</hi> concerning commerce and Trading
+<pb n="26" facs="tcp:171810:19"/>betwixt them, it is confeſ<g ref="char:EOLhyphen"/>ſed, and indeed their own Civil Lawyers atteſt it that our King at that preſent was true Lord and Sove<g ref="char:EOLhyphen"/>raign of thoſe ſeas, and this League was to continue for 30 years: and though during the warres betwixt <hi>England</hi> and <hi>France,</hi> the <hi>Engliſh</hi> did poſſeſſe them<g ref="char:EOLhyphen"/>ſelves not onely of a great part of the land, but alſo of the Sea, as of thoſe of <hi>Pi<g ref="char:EOLhyphen"/>cardy, Normandy</hi> and <hi>Gaſ<g ref="char:EOLhyphen"/>cony,</hi> yet the war ending we know they not onely did rule and command thoſe ſeas, but the <hi>French</hi> theirs alſo, &amp; ſo hold their Juriſdiction and Sove<g ref="char:EOLhyphen"/>raignty
+<pb n="27" facs="tcp:171810:19"/>of them at preſent, ſo that what the <hi>French</hi> could not do being Con<g ref="char:EOLhyphen"/>quered, the <hi>Engliſh</hi> did do, being Conquerors.</p>
+               <p>Nor will we omit thoſe two conſtitutions or Ordi<g ref="char:EOLhyphen"/>nances, the one of <hi>Henry</hi> the ſecond, the other of <hi>Henry</hi> the third <hi>An.</hi> 1555. <hi>&amp;</hi> 1584. by which 'tis de<g ref="char:EOLhyphen"/>creed that all ſhips of for<g ref="char:EOLhyphen"/>reign Nations coming up<g ref="char:EOLhyphen"/>on the <hi>French</hi> coaſts, ſhould ſtrike ſail to the Kings ſhips and 'tis ſaid plainly, in <hi>Im<g ref="char:EOLhyphen"/>perii Marini Gallorum re<g ref="char:EOLhyphen"/>cognitionem</hi> (that is,) in ac<g ref="char:EOLhyphen"/>knowledgement of the <hi>French</hi> Soveraignty over theit ſeas.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:171810:20"/>
+               <head>Of the Danes, Norways, Po<g ref="char:EOLhyphen"/>landers, and Turks.</head>
+               <p>WE have evident and experimentall te<g ref="char:EOLhyphen"/>ſtimony of thoſe Nations, how they hold up their Dominion in the ſeas, as for the <hi>Danes</hi> and <hi>Norvegi<g ref="char:EOLhyphen"/>ans</hi> their care in this is ſo ſtrict, that the very gains that come into their Trea<g ref="char:EOLhyphen"/>ſury by Impoſt and Cu<g ref="char:EOLhyphen"/>ſtome, are the greateſt of all others, eſpecially when they were inhanſed, and advanced as they were by
+<pb n="29" facs="tcp:171810:20"/>
+                  <hi>Frederick</hi> the ſecond King of <hi>Denmark</hi> and <hi>Norway,</hi> towards our <hi>Engliſh Muſeo<g ref="char:EOLhyphen"/>via</hi> Merchants 1583. that he made as much profit by the command of the <hi>Sound</hi> in the <hi>Baltick ſea,</hi> as he did by all his Land. So that he got ſo much by the Domi<g ref="char:EOLhyphen"/>nion of his ſeas, that the great Muſcovite was glad to come to Compoſition with him, or elſe he would as he might have done, in<g ref="char:EOLhyphen"/>terdicted and hindred all Trade into, or from <hi>Muſ<g ref="char:EOLhyphen"/>covy.</hi>
+               </p>
+               <p>Their power has been ſo ſtrict and great, that it does appear in the Ancient Records of <hi>Denmark,</hi> in
+<pb n="30" facs="tcp:171810:21"/>the time of <hi>Harold Hilde<g ref="char:EOLhyphen"/>tane</hi> King of <hi>Denmark, ne quiſquam ſine ejus nutu,</hi> &amp;c. that none ſhould dare or preſume, without his con<g ref="char:EOLhyphen"/>ſent and good will, uſurp, or take any profit on his ſeas, becauſe as 'tis ſaid, his benefit and power came in, and conſiſted by the ſea, as well as the Land, <hi>Selden. in mare clauſum p.</hi> 80. <hi>&amp; Dan. Hiſt. lib.</hi> 7. 'Tis recor<g ref="char:EOLhyphen"/>ded how many Princes and Potentates King <hi>Olo</hi> did ſubdue and deſtroy by his power at ſea.</p>
+               <p>And 'tis certain that <hi>A<g ref="char:EOLhyphen"/>dolphus Guſtavus</hi> King of <hi>Sweden</hi> did renounce and diſclaim all Right, Domi<g ref="char:EOLhyphen"/>nion
+<pb n="31" facs="tcp:171810:21"/>and ſuperiority of the ſea in <hi>Norway, Northland,</hi> and all other Kingly claims in <hi>Wardhuiſen</hi> which did any way concern ſea buſi<g ref="char:EOLhyphen"/>neſſes, and this was in the Reign of King <hi>James, Jun.</hi> 1613.</p>
+               <p>And for the Kings of <hi>Poland,</hi> we have an evi<g ref="char:EOLhyphen"/>dent Demonſtration of their care to defend, guard and ſecure their ſeas, for when <hi>Henry</hi> the third King of <hi>France</hi> was elected by the States of <hi>Poland,</hi> to be their K. his Lords Em<g ref="char:EOLhyphen"/>baſſadors did promiſe for him, that when he ſhould enjoy the government of that Kingdome then he
+<pb n="32" facs="tcp:171810:22"/>ſhould <hi>ſuo ſumptu Claſſem ſufficientem, &amp; neceſſariam ſuſtentare ad tuendos portus &amp; dominium maris,</hi> (that is) at his own Charges keep a neceſſary and ſufficient Navy to defend thoſe Ha<g ref="char:EOLhyphen"/>ven Towns, and uphold that Soveraignty of the ſeas, which did belong un<g ref="char:EOLhyphen"/>to that Kingdome of <hi>Po<g ref="char:EOLhyphen"/>land: Syntagm. ſtatutor. lib. lib.</hi> 3. <hi>tit.</hi> 1. <hi>fol.</hi> 109.</p>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:171810:22"/>
+               <head>Of the Turkiſh Soveraignty in his Seas.</head>
+               <p>THe Turks as they are the powerfulleſt Na<g ref="char:EOLhyphen"/>tion by Land, ſo thy are not negligent to hold up their power by ſea, and therefore being poſſeſſed of <hi>Conſtantineple</hi> &amp; indeed almoſt of all theſe <hi>Greeks</hi> Empire, except ſome few <hi>Iſlands</hi> which the <hi>Venetians</hi> hold up, ſo that they ſtile themſelves <hi>Lords of the black and white ſeas,</hi> for ſo did <hi>Achmet</hi> the <hi>Turkiſh</hi> Em<g ref="char:EOLhyphen"/>perour in his agreement
+<pb n="32" facs="tcp:171810:23"/>with <hi>Henry</hi> rhe fourth King of <hi>France</hi> 47. years ſince, which was publick<g ref="char:EOLhyphen"/>ly printed at <hi>Paris,</hi> in which the <hi>Grand Seignieur</hi> doth give and grant to the <hi>French</hi> free fiſhing, and to ſearch for <hi>Corall</hi> in certain <hi>Bayes</hi> and <hi>Creeks</hi> of the ſeas upon the <hi>Affrick</hi> ſhore be<g ref="char:EOLhyphen"/>twixt <hi>Algier</hi> and <hi>Tunis,</hi> and this ſufficiently ſhews (if there was nothing elſe, the Turks care and vigilancy to uphold his Juriſdiction of his ſeas.</p>
+               <p>Yet one more becauſe 'tis remarkable, and true, 'tis known, that the <hi>Turkiſh</hi> Emperor cauſed thoſe two impregnable Caſtles called
+<pb n="33" facs="tcp:171810:23" rendition="simple:additions"/>the <hi>Dardanels</hi> to be build<g ref="char:EOLhyphen"/>ed, the one upon one ſide of the <hi>Helleſpont,</hi> and the other on the oppoſite ſhore in both which he hath planted great numbers of Canon, and they are of ex<g ref="char:EOLhyphen"/>ceeding bignes, and com<g ref="char:EOLhyphen"/>mand the reſpective Go<g ref="char:EOLhyphen"/>vernours of them, that <hi>ſe qua Navis,</hi> (that is) if any, ſhip ſhould attempt to paſſe or repaſs againſt their wils, that they ſhould ſink her forthwith, which Cuſtome he holds and continues to this very day. <hi>Corolia. Cap<g ref="char:EOLhyphen"/>picus in bello Aſiatic. lib.</hi> 2.</p>
+               <p>And it is for certain that twice a year the <hi>Turks</hi> ſet out Gallies with ſouldiers
+<pb n="36" facs="tcp:171810:24"/>to ſcour the ſeas, and to go from port to Port, to de<g ref="char:EOLhyphen"/>mand ſubjection and obe<g ref="char:EOLhyphen"/>dience, and ſome preſent or other to their Comman<g ref="char:EOLhyphen"/>ders, from all who trade, or are found in their Harbors, or upon denyall to force them to it, or ſink them, whereupon that memora<g ref="char:EOLhyphen"/>ble fight happened 'twixt two <hi>Engliſh</hi> ſhips, and their <hi>Turkiſh</hi> Gallies ſent out for the ſame purpoſe, but the Captains of the <hi>Engliſh</hi> ſhips would neither ſtrike ſail, nor yet ſend any pre<g ref="char:EOLhyphen"/>ſent to them, whereupon the <hi>Turks</hi> w<hi rend="sup">th</hi> all their pow<g ref="char:EOLhyphen"/>er aſſailed them, the fight was gallantly maintained
+<pb n="37" facs="tcp:171810:24"/>by the <hi>Engliſh,</hi> but at laſt being overpowered with multitude, and having not one gale of wind to come off, they were both ſunk, and all the men killed, and made ſlaves, &amp; our <hi>Turkiſh</hi> merchants goods had much ado to be ſaved in <hi>Conſtan<g ref="char:EOLhyphen"/>tinople.</hi> the ſhips belong<g ref="char:EOLhyphen"/>ed to <hi>Alderman Freeman,</hi> after Lord Mayor of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the Captains name was <hi>Hugh Ellis</hi> of <hi>Limehouſe</hi> or <hi>Wapping.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:171810:25"/>
+               <head>Of the Grand Duke of Tuſ<g ref="char:EOLhyphen"/>cany, <hi>&amp;c.</hi>
+               </head>
+               <p>THis great Dukedome though rich and fer<g ref="char:EOLhyphen"/>tile for all ſorts of com<g ref="char:EOLhyphen"/>modities, yet the Prince keeps his Dominion of his ſeas, how great are the Im<g ref="char:EOLhyphen"/>poſts and Cuſtomes of one of his Ports onely (to wit) that of <hi>Ligorn,</hi> though there be many others, yet one ſayes plainly, that <hi>Mare Adriaticum Venetiis, Mare Liguſticum Genoenſibus, Tyre<g ref="char:EOLhyphen"/>num vero Piſis &amp; Tuſciae in<g ref="char:EOLhyphen"/>ſervit.</hi> (that is) the <hi>Adria<g ref="char:EOLhyphen"/>tick</hi>
+                  <pb n="36" facs="tcp:171810:25"/>ſea doth ſerve the <hi>Venetians,</hi> the <hi>Ligurian</hi> ſea the <hi>Genoeſes,</hi> and the <hi>Tyrrhene</hi> is the Duke of <hi>Tuſcanie,</hi> every one of theſe, not onely defend and maintain themſelves by their propriety to thoſe ſeas, but have and will fight to uphold their ancient Dominion over them re<g ref="char:EOLhyphen"/>ſpectively.</p>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:171810:26"/>
+               <head>Of the Popes Power over the Seas.</head>
+               <p>BRiefly (though we think it is fitter for the <hi>See</hi> of <hi>Rome</hi> to ſave mens ſouls if they be <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> ſucceſſors, then to Lord it ſo mightily either by ſea or Land, yet that the world may ſee his juriſdiction and power at ſea, in the <hi>Roman</hi> ſea belonging to <hi>Rome,</hi> we will give you ſome expreſ<g ref="char:EOLhyphen"/>ſions of his to ſet forth his lofty mind. <hi>Barth. <g ref="char:V">Ʋ</g>golinus Decenſuris Pont. reſerv. part.</hi> 2. <hi>ſect.</hi> 1. <hi>Excomm unicamus
+<pb n="41" facs="tcp:171810:26"/>&amp; Anathematizamus omnes piratas Curſarios ac Latrun<g ref="char:EOLhyphen"/>culos Maritimos diſcurrentes Mare noſtrum</hi> (that is) we excommunicate and curſe all <hi>Pirates, ſea Rovers,</hi> and <hi>thieves,</hi> whomſoever that ſhall hover on or rove on our Seas, and if any take any herrings upon any Holy day, they ſhall and muſt pay ſome to the next Churches, and ſpecially to thoſe Churches which ly neareſt to that place where they took them <hi>Gloſſ.</hi> 3. <hi>tit. de feriis.</hi>
+               </p>
+               <p>And further it is, and ſhall be lawfull for any free Citizen of <hi>Rome,</hi> or Inha<g ref="char:EOLhyphen"/>bitant of the ſame, to fiſh
+<pb n="40" facs="tcp:171810:27"/>upon <hi>Tyber,</hi> and the ſea be<g ref="char:EOLhyphen"/>longing to our Juriſdiction at what time, &amp; with what art they can, and it ſhall be unlawfull for any to mo<g ref="char:EOLhyphen"/>leſt or rob them, provided, they meddle not with wa<g ref="char:EOLhyphen"/>ters which belong to other Lords or States, and cer<g ref="char:EOLhyphen"/>tain places excepted and named, in which, <hi>ſine licen<g ref="char:EOLhyphen"/>tia piſcarinen licet.</hi> With<g ref="char:EOLhyphen"/>out licence of the Recor<g ref="char:EOLhyphen"/>der, it is not lawfull for them to fiſh. <hi>Stat. <g ref="char:V">Ʋ</g>rb. Rom: lib.</hi> 3. <hi>cap.</hi> 72.</p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:171810:27"/>
+               <head>Of the Engliſh So<g ref="char:EOLhyphen"/>veraignty in the Seas.</head>
+               <p>SURe and certain it is, that as by the Law of Nature and Nations all o<g ref="char:EOLhyphen"/>ther Principalities and Kingdomes, Dukedomes, and Common-wealths have and douphold their Titles, Priviledges and Dominion over, and in their Seas; it is as juſt for our Common-Wealth to do the ſame, for why not we uſe our power, as well as others? are all others free, and ſhall we now be made ſlaves? and
+<pb n="44" facs="tcp:171810:28"/>ſhal we now be made ſlaves, ſhall all other Princes enjoy their own, and ſhall we be debarred and rob'd of ours? and by ſuch onely, who have no juſtice to claim or conſcience to oppoſe it, ſhall be made good there<g ref="char:EOLhyphen"/>fore to all, what abſolute, and juſt Right and Domi<g ref="char:EOLhyphen"/>nion we have to our ſeas; and I hope, if my peu be not of force to convince thoſe inſolent <hi>Dutch;</hi> yet our thundring Cannon in ſhort time will confound them for their ingratefull and impudent injuſtice and preſumption. Have the greateſt Kings and Princes of <hi>Chriſtendom</hi> been glad to
+<pb n="45" facs="tcp:171810:28"/>ask leave to come upon and paſſe and repaſſe our ſeas, and ſhall we our ſelves ask leave of others to do it now? Durſt not the ſtout<g ref="char:EOLhyphen"/>eſt of all Nations dare to fiſh upon our coaſts with<g ref="char:EOLhyphen"/>out leave firſt granted, and ſatisfaction promiſed, and given, and ſhall we now not dare to do ir our ſelves? Have our <hi>Admiralls</hi> and our Navies been the ter<g ref="char:EOLhyphen"/>ror of <hi>Europe,</hi> and ſhall we ſo ſoon be ſtript both of va<g ref="char:EOLhyphen"/>lour and goods too? what, have the <hi>Dutch</hi> now that li<g ref="char:EOLhyphen"/>berty and power to them<g ref="char:EOLhyphen"/>ſelves, which they former<g ref="char:EOLhyphen"/>ly <hi>begged for</hi> at our hands, or is their Right now be<g ref="char:EOLhyphen"/>come
+<pb n="44" facs="tcp:171810:29"/>ſo, becauſe they ima<g ref="char:EOLhyphen"/>gine they have might to effect it, ſhall all force if of<g ref="char:EOLhyphen"/>fered, and prevailing, be accounted for juſt? if they be ſo bold to attempt to get why not we as good and re<g ref="char:EOLhyphen"/>ſolute to hold our own? we hinder them not of theirs, why ſhould they debar us from ours? cannot, or muſt not our men go out of their own houſes or Havens for fear of <hi>Vantrump</hi> or a <hi>Boriſh Dutchman:</hi> that we may, &amp; by Gods protection will; we lay down theſe concluſions and Arguments, to ſhow to the whole world the baſe<g ref="char:EOLhyphen"/>neſſe of the <hi>Dutch, Hollan<g ref="char:EOLhyphen"/>ders,</hi> and <hi>Zelanders,</hi> with o<g ref="char:EOLhyphen"/>thers
+<pb n="45" facs="tcp:171810:29"/>who are combined to aſſiſt them againſt our juſt Rights and priviledges up<g ref="char:EOLhyphen"/>on the ſeas.</p>
+               <list>
+                  <item>1. That the Dominion, Government, Rule, Juriſ<g ref="char:EOLhyphen"/>diction and Command of our ſeas hath alwayes be<g ref="char:EOLhyphen"/>longed and been upheld by the <hi>Engliſh.</hi>
+                  </item>
+                  <item>2. From the cuſtody, Rule, and Admiralty of <hi>England</hi> in our ſeas.</item>
+                  <item>3, From all Forreigners, asking leave to paſſe and repaſſe our ſeas.</item>
+                  <item>4. From the giving of li<g ref="char:EOLhyphen"/>berty to forreign Nations to fiſh on our ſeas, and that by leave onely from us, and from Cuſtomes paid to us.</item>
+               </list>
+               <pb n="48" facs="tcp:171810:30"/>
+               <p>
+                  <hi>Thomas Moulton</hi> was in the Reigne of <hi>Henry</hi> the third ſtiled <hi>Capitaneus &amp; Cuſtos Maris,</hi> the Lord Ad<g ref="char:EOLhyphen"/>mirall and keeper of the ſeas, <hi>Rot. part</hi> 8. <hi>Hen.</hi> 3. and under him the <hi>Cinque ports</hi> kept the coaſt of <hi>England,</hi> and the ſeas, <hi>Henry</hi> 3. hence was that Commiſſion to Sir <hi>Hugh Crequier</hi> to guard the ſeas. <hi>Edward</hi> the firſt appointed three Navies to<g ref="char:EOLhyphen"/>wards the guard of our ſeas one for <hi>Yarmouth</hi> Road, a<g ref="char:EOLhyphen"/>nother for <hi>Portſmouth,</hi> and the third for the <hi>Weſtern</hi> and <hi>Iriſh</hi> Seas, <hi>Edward</hi> 1295.</p>
+               <p>In the Reign of <hi>Edward</hi> the ſecond alſo there were
+<pb n="49" facs="tcp:171810:30"/>three Admiralls for the the ſaveguard of our ſeas: the Lord <hi>Oturwin,</hi> the Lord <hi>Kiriel,</hi> and the Lord <hi>Felton, cuſtodiam Maris habebant,</hi> ſay the <hi>Records,</hi> and theſe guarded our ſeas.</p>
+               <p>And in that firſt Parlia<g ref="char:EOLhyphen"/>ment of <hi>Edward</hi> the third, fourteenth of his Reigne, that they would have a care to ſecure the peace of the Land, <hi>&amp; limitis Scotici &amp; Maris</hi> (that is) and of the borders of <hi>Scotland,</hi> and of the ſeas.</p>
+               <p>And ſo under <hi>Richard</hi> the ſecond, <hi>Hugh Calverley</hi> was made Admirall, and <hi>Thomas Piercy</hi> was joynd in Commiſſion with him to
+<pb n="50" facs="tcp:171810:31"/>order and govern the ſeas, for that year, 2. <hi>Rich.</hi> 2.</p>
+               <p>And ſo it was in full Par<g ref="char:EOLhyphen"/>liament agreed that the Earl of <hi>Salisbury, John</hi> Earl of <hi>Shropſhire, John</hi> Earl of <hi>Worceſter,</hi> and <hi>James</hi> Earl of <hi>Wilts,</hi> with the Lord <hi>Stour<g ref="char:EOLhyphen"/>ton,</hi> (under King <hi>Henry</hi> the ſixth, ſhould have the guar<g ref="char:EOLhyphen"/>ding and Rule of the ſeas, <hi>cum claſſe numeroſa,</hi> with a mighty Navy, and after<g ref="char:EOLhyphen"/>wards that care was com<g ref="char:EOLhyphen"/>mitted to <hi>John</hi> Duke of <hi>Exceſter. Henry</hi> 6.38.</p>
+               <p>And further in the Reign of the ſame King, the Com<g ref="char:EOLhyphen"/>mons deſired, and did think it fit that the ſeas be kept. <hi>Rot. Par.</hi> 20. <hi>Hen.</hi> 6. <hi>Artic.</hi> 29.</p>
+               <pb n="51" facs="tcp:171810:31"/>
+               <p>And no leſſe appears by <hi>Chaucer</hi> who lived in the time of King <hi>Richard</hi> the ſecond, a famous Poet, who ſayes, <hi>(ut mare cuſtodiretur)</hi> that the ſea might be guar<g ref="char:EOLhyphen"/>ded and kept, and he gives this reaſon.</p>
+               <q>
+                  <l>Keep your ſeas 'twixt <hi>Orwel</hi> and Middleborough ſtill,</l>
+                  <l>You'l be ſure to have wealth Flow in at your will.</l>
+               </q>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:171810:32"/>
+               <head>Of the Tributes, Taxes, and Subſidies, paid for our ſafe<g ref="char:EOLhyphen"/>guarding the Seas.</head>
+               <p>TO paſſe over the point of <hi>Dane-Gelt</hi> and ſuch like preſſures of this Nation, though indeed it was uſed by <hi>William</hi> the firſt and ſecond, and by <hi>Henry</hi> the firſt, and by <hi>Stephen,</hi> Kings of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> yet it was imployed for the cuſtody and ſafe<g ref="char:EOLhyphen"/>guard of the ſeas, that they
+<pb n="53" facs="tcp:171810:32"/>might not be infeſted by <hi>Daniſh</hi> Pirates, nor the Land ſuddenly invaded, and it was in the Raigne of <hi>Edward</hi> the firſt laid out to the ſame purpoſe, as it is evident in <hi>Rot.</hi> 72. <hi>penes Camerarios ſacrarii.</hi> And to this purpoſe likewiſe was Subſidy money granted in full Parliament in the time of <hi>Edward</hi> the third, for to ſafe-guard the Realm and the Sea, the <hi>Scotch</hi> borders, <hi>Gaſcony</hi> and the <hi>Iſlands</hi> be<g ref="char:EOLhyphen"/>longing to <hi>England,</hi> this was then thought juſt and neceſſary, not onely by the King and the Lords, but al<g ref="char:EOLhyphen"/>ſo by the Parliament. <hi>Rot. Parl.</hi> 13. <hi>Edw,</hi> for they in<g ref="char:EOLhyphen"/>clude
+<pb n="54" facs="tcp:171810:33"/>the ſafety of the Land to bee by the able guarding of our ſeas, and what is worth Obſervation, 'tis certain that in the Reign of <hi>Richard</hi> the ſecond there was a cerrain Tax and Tri<g ref="char:EOLhyphen"/>bute laid upon any ſhip, as well Merchants, as Fiſher<g ref="char:EOLhyphen"/>men, and not of our own onely, but alſo upon a<g ref="char:EOLhyphen"/>ny forreigner whatſoever that ſhould paſſe upon our <hi>Northeast</hi> or <hi>North</hi> ſeas, and this was impoſed, <hi>ad maris tutelam,</hi> for the ſafety of the Seas. Every ſhip ac<g ref="char:EOLhyphen"/>cording to the burthen or Tun paid a certain and ſet rate 6. <abbr>
+                     <hi>d.</hi>
+                  </abbr> except ſuch onely who paſſed from <hi>Flanders</hi> to
+<pb n="55" facs="tcp:171810:33"/>
+                  <hi>London,</hi> or to <hi>Calice</hi> with Wooll or Hides. Every fiſh<g ref="char:EOLhyphen"/>erman paid 6. <abbr>
+                     <hi>d.</hi>
+                  </abbr> for the Tun weekly, and to this end, there were ſix ſtout men of war appointed and ſet out to ſea. <hi>Rot. Par.</hi> 2 <hi>Rich. part.</hi> 2. <hi>Art.</hi> 39. &amp; ſo all Colliers ſail<g ref="char:EOLhyphen"/>ing from <hi>Newcaſtle</hi> and car<g ref="char:EOLhyphen"/>rying Coals, paid quarter<g ref="char:EOLhyphen"/>ly after the Rate of 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> the Tunne, and not onely theſe, but all other paſſengers for paſſing and repaſſing, and ſpecially ſuch who fiſhed, if Forreigners.</p>
+               <p>Alſo in the Reign of <hi>Henry</hi> the ſixth, <hi>William La Poole</hi> Duke of <hi>Suffolk</hi> was accuſed in Parliament, be<g ref="char:EOLhyphen"/>cauſe he had not rightly
+<pb n="56" facs="tcp:171810:34"/>imployed the Subſidy mo<g ref="char:EOLhyphen"/>nies, for, and towards the tuition and ſafe keeping the ſeas. <hi>Rot. Par.</hi> 28. <hi>Hen.</hi> 6. And in the 32. of his Reign there was a Subſidy granted of 40000 <hi>
+                     <abbr>l.</abbr> in tutelam Maris.</hi> (that is) for the defence of the ſeas. To ſhut up all, who may not find in the Acts of Parliament, as the 1. of <hi>Ed.</hi> 6. the firſt of Queen <hi>Mary,</hi> the firſt of Queen <hi>Eliſabeth,</hi> and the firſt of King <hi>James,</hi> that the Parliament allow<g ref="char:EOLhyphen"/>ed Subſidies for the defence of the Realm, and ſafeguard of the ſeas, and for enter-courſe of Trade, and traf<g ref="char:EOLhyphen"/>fick, and for Merchandiſes to come ſafe into, or to be
+<pb n="57" facs="tcp:171810:34"/>exported hence, as alſo to hinder any for diſturbing our Land by Invaſion, or our ſeas by Piracy; what need all theſe have been ſo carefully proſecuted but onely to ſhew our Rights, and lawful Juriſdiction up<g ref="char:EOLhyphen"/>on our ſeas.</p>
+               <p>To proceed, if we ſhould ſhew the world, the power and large Commiſſions gi<g ref="char:EOLhyphen"/>ven to our Lords High Ad<g ref="char:EOLhyphen"/>miralls of <hi>England,</hi> they ſurely would evidence our Dominion at ſea: in vain had they been granted, if not of Right, or if not ex<g ref="char:EOLhyphen"/>ecuted, and to ſpeak truth we find no mention of any ſea-fights concerning our
+<pb n="58" facs="tcp:171810:35"/>title, none were ſo bold then, or ſo unjuſt to chal<g ref="char:EOLhyphen"/>lenge a Dominion, or to u<g ref="char:EOLhyphen"/>ſurp it on our Coaſts, other differences betwixt Kings and Princes cauſed wars of<g ref="char:EOLhyphen"/>ten at Sea, but not this one, which now the inſolent and injurious <hi>Dutch</hi> alone have raiſed to quarrel with us: to ſatisfie all men, we will ren<g ref="char:EOLhyphen"/>der the form of the Com<g ref="char:EOLhyphen"/>miſſion of the Lord High Admirall of <hi>England,</hi> as for many years it hath been granted forth.</p>
+               <p>
+                  <hi>Damus &amp; concedimus N. magni Admiralli noſtri An<g ref="char:EOLhyphen"/>gliae Hiberniae Walliae, ac Do<g ref="char:EOLhyphen"/>miniorum, &amp; inſularum eo<g ref="char:EOLhyphen"/>rundem.</hi> To Engliſh it in
+<pb n="59" facs="tcp:171810:35"/>part, we give and grant to <hi>N.</hi> the Office of great Ad<g ref="char:EOLhyphen"/>mirall of <hi>England, Ireland,</hi> and <hi>Wales,</hi> and of our Do<g ref="char:EOLhyphen"/>minions and Iſlands of the ſame, but what power is in<g ref="char:EOLhyphen"/>cluded? it is plain, that as occaſions were greater or leſſe, ſo his Commiſſion was limited or extended, even as far as to <hi>Calice,</hi> and the Marches thereof, and to thoſe of <hi>Normandy, Gaſcoyn</hi> and <hi>Picardy,</hi> and therefore one Commiſſion runs, ſo that we have made, appoin<g ref="char:EOLhyphen"/>ted and ordained <hi>N.</hi> to be Lord High Admirall as aforeſaid, and do of our ſpeciall grace and know<g ref="char:EOLhyphen"/>ledge give and grant unto
+<pb n="60" facs="tcp:171810:36"/>
+                  <hi>N.</hi> our great Admirall of all our Navies; and ſeas afore<g ref="char:EOLhyphen"/>ſaid, all and ſingular the Juriſdictions, Authorities, Liberties, Offices, Feodes, Profits, emoluments, Ship<g ref="char:EOLhyphen"/>wrecks, <hi>&amp;c.</hi> as alſo all ad<g ref="char:EOLhyphen"/>vantages, commodities, pre<g ref="char:EOLhyphen"/>heminences and priviledges whatſoever belonging or appertaining unto the ſaid Office of our great Admiral of <hi>England</hi> and <hi>Ireland,</hi> and of all other our foreſaid Dominions; and when he was inveſted with this Ho<g ref="char:EOLhyphen"/>nor, he was to uſe his utmoſt skill and power to put his Commiſſion into executi<g ref="char:EOLhyphen"/>on, but what did that con<g ref="char:EOLhyphen"/>cern? to ſecure our ſeas, to
+<pb n="61" facs="tcp:171810:36"/>fight enemies, to take Pi<g ref="char:EOLhyphen"/>rates, to demand Cuſtoms, and Sea Taxes, to protect our Fiſhermen, to hinder o<g ref="char:EOLhyphen"/>ther people from fiſhing, except leave was firſt grant<g ref="char:EOLhyphen"/>ed to them, and they had agreed to pay what was Im<g ref="char:EOLhyphen"/>poſed on them for their fiſhing, and to this end the Admirall had power to di<g ref="char:EOLhyphen"/>vide his Navy, ſome to the <hi>North</hi> ſeas, ſome to the <hi>Ea<g ref="char:EOLhyphen"/>ſtern,</hi> and ſome to the <hi>Weſt,</hi> and what did all this ſhew, but that the <hi>Engliſh</hi> have and alwayes had an un<g ref="char:EOLhyphen"/>doubted Right and Domi<g ref="char:EOLhyphen"/>nion in, and over the ſeas. That learned Antiquary Sir <hi>Hen. Spelman</hi> in his <hi>Gloſſary</hi>
+                  <pb n="62" facs="tcp:171810:37"/>hath ſet down the names, and the year of our Lord, with the Kings that reigned reſpectively, of all who have enjoyed that Office of Ad<g ref="char:EOLhyphen"/>miralty, or keepers and Guarders of our ſeas time out of mind, and it ſeems wonderfull, that four ſuch huge Navies ſhould be ma<g ref="char:EOLhyphen"/>naged and ſet forth to ſea, the leaſt whereof conſiſted of one 1000 Sail. The firſt that bore the title of Admi<g ref="char:EOLhyphen"/>rall of all <hi>England</hi> was <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> the younger ſon of <hi>A<g ref="char:EOLhyphen"/>lan,</hi> Earl of <hi>Arundel</hi> and <hi>Surrey,</hi> and this was confer<g ref="char:EOLhyphen"/>red on him <hi>September</hi> 10. <hi>A.</hi> 10. <hi>Rich.</hi> 2. <hi>Hen. Spel. Gloſſ. p,</hi> 15.</p>
+               <pb n="63" facs="tcp:171810:37"/>
+               <p>And that great Antiqua<g ref="char:EOLhyphen"/>ry by diligent ſearch and induſtry hath brought them down from <hi>Richard Lucy</hi> the firſt, in the eighth year of <hi>Henry</hi> the third, as well for the <hi>North</hi> ſeas as the <hi>VVeſt,</hi> unto our times, even unto the 6. of K. <hi>James.</hi> For certain, large was our Sove<g ref="char:EOLhyphen"/>raignty at ſea: if we pleaſe to note two or three of the Lord Admiralls Titles to a<g ref="char:EOLhyphen"/>void tediouſneſſe, for in the firſt of <hi>Edward</hi> 6. <hi>Thomas Seymor</hi> Knight, Baron of <hi>Sudely,</hi> Brother of <hi>Edward</hi> Duke of <hi>Somerſet,</hi> was Ad<g ref="char:EOLhyphen"/>mirall of <hi>England, Ireland, Wales, Calice, Bulloign,</hi> &amp;c. <hi>Feb.</hi> 17.</p>
+               <pb n="64" facs="tcp:171810:38"/>
+               <p>And in the third of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the ſixth, <hi>John Dudly</hi> Earl of <hi>VVarwick, Viſcount Liſle</hi> Knight of the Garter, Lord high Admirall of <hi>Eng<g ref="char:EOLhyphen"/>land, VVales, Calice, Bulleign,</hi> and the Marches of the ſame, of <hi>Normandy Gaſcoyn</hi> and <hi>Picardy,</hi> and chief Go<g ref="char:EOLhyphen"/>vernour of our Navies, and of all the feas.</p>
+               <p>And ſo <hi>Charls Howard,</hi> Baron of <hi>Eſſingham,</hi> his Ti<g ref="char:EOLhyphen"/>tles go as high in the 27. of <hi>Eliſabeth:</hi> and as they had large Titles, ſo had they as great force and ability to execute ſuch Right &amp; Title as we have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the ſeas, that they are ſtiled our ſeas, and in the ſecond of <hi>Edward</hi> the
+<pb n="65" facs="tcp:171810:38"/>third, they are called <hi>quatu<g ref="char:EOLhyphen"/>or maria Angliae</hi> (that is) the four ſeas of <hi>England</hi> what an Ancient &amp; Honourable propriety is expreſſed and engraven in theſe words.</p>
+               <p>Next follows to ſhew our Dominion on the ſea are Letters of Credence from our Princes in favour grant<g ref="char:EOLhyphen"/>ed to ſuch, who have asked leave to paſſe or repaſſe our ſeas, ſuch was the leave, and ſafe guard granted to <hi>Fer<g ref="char:EOLhyphen"/>rando <g ref="char:V">Ʋ</g>rtis</hi> of <hi>Sarrachon,</hi> a Spaniard to ſayl from the Port of <hi>London,</hi> through, and by our Kingdomes Ter<g ref="char:EOLhyphen"/>ritories and Dominions to <hi>Rochel Rot. Franc.</hi> 5. <hi>Hen.</hi> 4. <hi>Membr.</hi> 11. <hi>Jan.</hi> 5. And
+<pb n="66" facs="tcp:171810:39"/>
+                  <hi>Charls</hi> the 6. King of <hi>France</hi> ſending to <hi>Robert</hi> the third King of <hi>Scotland</hi> about en<g ref="char:EOLhyphen"/>tring into League with him, got leave firſt for free and ſafe paſſage from King <hi>Henry</hi> through his Dominions, Territories, and poſſeſſions, by ſea and Land, it ſeems by theſe, that <hi>England</hi> kept the Government of the ſeas without controll then, and why not now?</p>
+               <p>But remarkable is that ſtory; how in the Reign of Qu. <hi>Eliſabeth,</hi> the Kings of <hi>Denmark</hi> and <hi>Sweden</hi> too, as alſo the <hi>Hanſ-towns</hi> did of<g ref="char:EOLhyphen"/>ten and earneſtly ſollicite, and petition her that ſhee would be pleaſed to give
+<pb n="67" facs="tcp:171810:39"/>them leave to paſſe and re<g ref="char:EOLhyphen"/>paſs <hi>Her</hi> ſeas, ſo they counted them then to be, that they might carry corn into <hi>Spain,</hi> in that time while <hi>England</hi> and <hi>Spain</hi> were in war one with another, She wiſely did deny them, but they think<g ref="char:EOLhyphen"/>ing to ſteal thither without her leave, were taken and made prize, even as they were ſailing into <hi>Lisbone</hi> 13. <hi>Jun.</hi> 1589. See this alſo in <hi>Thuanus lib.</hi> 95. <hi>Hiſtor.</hi> and when they complained of the Act of the Queen as un<g ref="char:EOLhyphen"/>juſt and againſt the Law of Nations, and free Trade 'twas anſwered that they ſhould not have licenſe or leave to cary arms or corn
+<pb n="68" facs="tcp:171810:40"/>or any materialls ſerving to hold up the war, but for o<g ref="char:EOLhyphen"/>ther merchandiſes, they ſhould have as free leave as ever. And when as they ſent over into <hi>England</hi> their A<g ref="char:EOLhyphen"/>gent <hi>Sebaſtian Van Bergen,</hi> with Letters of <hi>Requeſt,</hi> that they might have free leave to Trade, and carry any ſort of proviſion into <hi>Spain,</hi> they had this tart anſwer from the Queen and Councel; if they durſt do ſo, they ſhould be ſure to be ſeverely pu<g ref="char:EOLhyphen"/>niſhed by her Majeſties ſhips of warre, and prize to bee made beſide. <hi>In Declar. Beg.</hi> 1589.</p>
+               <p>And the like ſtout &amp; reſo<g ref="char:EOLhyphen"/>lute anſwer was alſo given
+<pb n="69" facs="tcp:171810:40"/>to the <hi>Daniſh</hi> Embaſſadours <hi>deſiring</hi> &amp; <hi>ſolliciting</hi> for the ſame <hi>Anno</hi> 1597. And who knows not but <hi>John</hi> King of <hi>Sweden</hi> deſired <hi>leave</hi> of the ſame Queen to carry mer<g ref="char:EOLhyphen"/>chandiſe to <hi>Spain;</hi> but what need he ask the reaſon is rendred. <hi>Neceſſe ei fore Ma<g ref="char:EOLhyphen"/>ritimas Reginae ditiones per<g ref="char:EOLhyphen"/>tranſire</hi> (that is) he muſt of all neceſſity paſſe by the Queens Territories and Do<g ref="char:EOLhyphen"/>minions, in <hi>Bib. Cotton:</hi> but of this ſufficient; the <hi>Dutch</hi> may be in due time brought to acknowledge as much; they have done it to be ſure, and humbly too, which fol<g ref="char:EOLhyphen"/>lows next.</p>
+            </div>
+            <div type="part">
+               <pb n="70" facs="tcp:171810:41"/>
+               <head>Leave to Fiſh upon our ſeas granted.</head>
+               <p>AS none durſt violate our power to paſſe, ſo much leſſe durſt any adven<g ref="char:EOLhyphen"/>ture to fiſh upon our ſeas: without ſpeciall leave and licenſe ſo to do firſt ob<g ref="char:EOLhyphen"/>tained.</p>
+               <p>And firſt, <hi>Henry</hi> the ſixth the <hi>French</hi> King obtained ſo much favour that he had leave granted him to fiſh one whole year onely, mark how though favoured, yet limited, ſometimes 'twas granted to him for ſix mo<g ref="char:EOLhyphen"/>neths onely, and ſometimes
+<pb n="71" facs="tcp:171810:41"/>again, he might fiſh when, and where, and as often as he pleaſed, he had leave, but firſt did modeſtly ask it, did not any wayes abuſe it, this is found in the Rolls of <hi>France Hen.</hi> 6. <hi>reg.</hi> yet they were ſo lookd to, that they might not come with her<g ref="char:EOLhyphen"/>ring buſſes above thirty tun, and that our men ſhould no way be moleſted, and that they ſhould ſhew due obedi<g ref="char:EOLhyphen"/>ence as they expected ſecu<g ref="char:EOLhyphen"/>rity, and when they were bolder then welcome their ſhips were ſeiſed on.</p>
+               <p>And now to come to our <hi>Eaſtern</hi> ſeas, and thoſe that are <hi>Northeaſt,</hi> did not the <hi>Hollanders</hi> and <hi>Zelanders</hi> in
+<pb n="72" facs="tcp:171810:42"/>great numbers fiſh for heer<g ref="char:EOLhyphen"/>ring and other fiſh upon our Coaſt, but 'tis ſaid firſt ha<g ref="char:EOLhyphen"/>ving obtained <hi>Leave</hi> from the Governour of <hi>our Ca<g ref="char:EOLhyphen"/>ſtle of Scarborough</hi> according to <hi>ancient Cuſtome.</hi> What can be plainer? did they, and were they glad to ask leave, and now will they take it, and be their own carvers? <hi>Camb. in Brit. p.</hi> 506. and it is not to be imagined, ſayes our <hi>Cambden</hi> what a maſſe of wealth the <hi>Hollan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Zelanders</hi> get by having <hi>leave</hi> to fiſh upon our Coaſts.</p>
+               <p>And ſo in the time of Queen <hi>Eliſabeth,</hi> an expert Writer ſayes thus, that the
+<pb n="73" facs="tcp:171810:42"/>
+                  <hi>Hollanders, Zelanders</hi> and thoſe of <hi>Flanders,</hi> come up<g ref="char:EOLhyphen"/>on our <hi>Eaſtern</hi> Coaſt, in the beginning of Summer with four or five hundred her<g ref="char:EOLhyphen"/>ring <hi>Buſſes</hi> to catch fiſh, but 'tis ſaid, that before they fiſh they ask <hi>leave</hi> firſt, from the Governour of <hi>Scarborough. Hanſe</hi> in thoſe times had ſome modeſty. See <hi>Hitch<g ref="char:EOLhyphen"/>okes</hi> new years gift <hi>An.</hi> 1580.</p>
+               <p>And King <hi>James</hi> forbad that they or any other ſtranger ſhould fiſh upon our coaſts, except the <hi>A<g ref="char:EOLhyphen"/>gents</hi> of ſuch Countries re<g ref="char:EOLhyphen"/>ſiding in <hi>London</hi> had firſt obtained leave from the King <hi>Edict. Jac.</hi> 6. <hi>Maii.</hi>
+               </p>
+               <pb n="74" facs="tcp:171810:43"/>
+               <p>So 'tis manifeſt that thoſe of <hi>Holland, Zealand,</hi> and <hi>Faieſland</hi> in <hi>Edward</hi> the 1. his reign, had leave grant<g ref="char:EOLhyphen"/>ed to them to fiſh, and we did protect them alſo from danger, and this to be near <hi>Yarmouth,</hi> yet theſe Letters Pattents were not to be in force longer then to Saint <hi>Martins</hi> day, behold their limitation! as they had his Princely favour, ſo they had likewſe ſuch a preciſe time ſet, and allowed to them, which if they ex<g ref="char:EOLhyphen"/>ceeded, they were to ſtand to his mercy, or juſtice for remiſſion or infliction of puniſhment, <hi>Rot. Par. Ed.</hi> 1. <hi>Membran</hi> 5.</p>
+               <pb n="75" facs="tcp:171810:43"/>
+               <p>And the <hi>Hollanders</hi> ſub<g ref="char:EOLhyphen"/>miſſion and intreaty to the ſaid King ſhews, that they would not, could not, durſt not fiſh upon our ſeas, be<g ref="char:EOLhyphen"/>fore they had leave granted unto them from the ſaid King, witneſſe thoſe ex<g ref="char:EOLhyphen"/>preſſions of the King in that Caſe. In tender favour and compaſſion we bear unto thoſe of <hi>Holland</hi> and <hi>Zealand,</hi> and to other neigh<g ref="char:EOLhyphen"/>bours we wil ſend out ſome of our men of war towards the <hi>Northern</hi> ſeas, to ſafe<g ref="char:EOLhyphen"/>guard and to protect their ſhips ſent out to fiſh for her<g ref="char:EOLhyphen"/>ring, and to <hi>ſecure</hi> and guard <hi>their</hi> Sea Coaſts, whileſt they are fiſhing.
+<pb n="76" facs="tcp:171810:44"/>How now <hi>Landts-man</hi> or <hi>Dutchman;</hi> what you were then not onely limited, but alſo protected by Royal fa<g ref="char:EOLhyphen"/>vour, and not onely to fiſh but we defended your very ſea Coaſts, during that time by our men of war, you were not in thoſe times (it ſeems) able to ſe<g ref="char:EOLhyphen"/>cure your ſelves, or fiſh ſafe without our ſafeguarding you; for if you had, you would not ſo earneſtly re<g ref="char:EOLhyphen"/>queſted this favour at our hands; and will you at pre<g ref="char:EOLhyphen"/>ſent not defend us, if wee ſtood in need of it, (which thanks be to God) we do not, but alſo fight us in our own boſoms and
+<pb n="77" facs="tcp:171810:44"/>Channels? how do theſe recorded favours of ours, (if there were no more) towards you, and unmerit<g ref="char:EOLhyphen"/>ted by you from us, ſpeak ſhame to your faces for re<g ref="char:EOLhyphen"/>quiting us with ſo much e<g ref="char:EOLhyphen"/>vil for ſo much good to your Progenitors, and your ſelves too: nay, we had ſuch undoubted power and and Right then on the ſeas, that you were ordered what ſhips you ſhould uſe, and alſo what number ſhould be imployed; and durſt not tranſgreſſe, or diſobey then, nay, indeed were glad you could have that favour and benefit by humble Requeſt from this
+<pb n="78" facs="tcp:171810:45"/>Nation granted unto you, and beſtowed upon you. Whereupon 'twas ordered, (and ye durſt not nor could hinder that Authority) that ſometimes ye might and sometimes yee might not <hi>fiſh at all,</hi> and then when permitted, not with veſſels that ſhould exceed 30 Tun, and this is plaine by the Commiſſions and Authori<g ref="char:EOLhyphen"/>ty given to the reſpective Governours of <hi>Yarmouth, Scarborough, VVhitby</hi> bay, <hi>Selden. in mare Clauſ.</hi> 234. and to this purpoſe the <hi>Roſe Noble</hi> bears that im<g ref="char:EOLhyphen"/>preſſion, a King in a Royall ſhip, and the ſuperſcription <hi>Edward</hi> by the grace of
+<pb n="79" facs="tcp:171810:45"/>God King of <hi>England, France,</hi> and <hi>Ireland,</hi> and on the other ſide <hi>Jefus autem tranſiens per medium illo<g ref="char:EOLhyphen"/>rum, ibat:</hi> Which King de<g ref="char:EOLhyphen"/>fended the ſeas with a mighty Navy of ſtout ſhips to the number of 1100. veſ<g ref="char:EOLhyphen"/>ſells. 33. of <hi>Edward</hi> the third <hi>Anno</hi> 1359. and the very engraving ſhews enough, as a Royall ſhip, a King crowned, a Sword, a Throne the Roſe. What are theſe all but ſo many Blaſons of our Rule at ſea? According to that <hi>Engliſh</hi> Meetre.</p>
+               <q>
+                  <l>Or Roſe Noble ſheweth five things unto me,</l>
+                  <l>King, Ship, Sword, Roſe, <hi>and power of the ſea.</hi>
+                  </l>
+               </q>
+               <pb n="80" facs="tcp:171810:46"/>
+               <p>And what leſſe meant the Emperour <hi>Sigiſmond</hi> in his ſpeech to <hi>Henry</hi> the fifth, when he ſtrove to make a peace betwixt him and <hi>Charls</hi> the ſixth, the <hi>French</hi> King, and he ſaid that it was the true <hi>Engliſh</hi> policy to keep ſafe our Land, to ob<g ref="char:EOLhyphen"/>ſerve theſe three things, <hi>viz.</hi>
+                  <list>
+                     <item>1. To <hi>cheriſh Merchandiſe,</hi>
+                     </item>
+                     <item>2. <hi>To keep the Admiralty.</hi>
+                     </item>
+                     <item>3. And <hi>to be maſters of the Narrow ſea.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And when <hi>Sigiſmond</hi> ſaw <hi>Dover</hi> and <hi>Calice,</hi> and ob<g ref="char:EOLhyphen"/>ſerved their ſcituation, ſaid to the King of <hi>England.</hi>
+               </p>
+               <q>
+                  <l>Keep <hi>theſe</hi> two Towns ſure I wiſh <hi>your Majeſty,</hi>
+                  </l>
+                  <pb n="81" facs="tcp:171810:46"/>
+                  <l>As <hi>your</hi> twein eine ſo <hi>keep</hi> the <hi>Narrow ſea.</hi>
+                  </l>
+               </q>
+               <p>But we proceed to ano<g ref="char:EOLhyphen"/>ther ſubject, that gives evi<g ref="char:EOLhyphen"/>dent Teſtimoniall of our Soveraignty on the ſea, <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="82" facs="tcp:171810:47"/>
+               <head>All Forreigners ſtrike Sail, or vail their Top<g ref="char:EOLhyphen"/>ſails to our ſhips of War.</head>
+               <p>ANd for certain it is, that this Honour our Nation hath had, timeout of mind, and it was really performed by thoſe of <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> in their Embaſſage to our <hi>Edward</hi> the ſecond, the <hi>French</hi> indeed at ſome times have been ſo bold as to queſtion it, but they were alwayes puniſhed by our men of war for their pride. And it hath been practiſed
+<pb n="83" facs="tcp:171810:47"/>four hundred years ſince in King <hi>John</hi> his Reign <hi>Anno</hi> 1200. for he gave out a cer<g ref="char:EOLhyphen"/>tain Decree or Ordinance, with the advice of his Lords at <hi>Haſtings</hi> in <hi>Suſſex,</hi> to this effect, if the Admi<g ref="char:EOLhyphen"/>rall of our Navy, in his ſail<g ref="char:EOLhyphen"/>ing upon and down our ſeas, do meet with any ſhips or Veſſels, loaden or unloa<g ref="char:EOLhyphen"/>den, which will not at his command, or whom he ſhall appoint, ſtrike ſail, and vail, but ſhall fight our Navy, if they be taken: they ſhall be adjudged enemies, and moreover, both ſhips and goods ſo taken ſhall forth<g ref="char:EOLhyphen"/>with be confiſcate and ta<g ref="char:EOLhyphen"/>ken for prize, as other ene<g ref="char:EOLhyphen"/>mies,
+<pb n="84" facs="tcp:171810:48"/>nay though the Ma<g ref="char:EOLhyphen"/>ſters and Captains of ſuch ſhips ſhall after alledge that the ſaid ſhips do belong un<g ref="char:EOLhyphen"/>to the Kings friends, and the men in the ſaid ſhips ſhall be puniſhed by impri<g ref="char:EOLhyphen"/>ſonment during our plea<g ref="char:EOLhyphen"/>ſure as Rebels and Tray<g ref="char:EOLhyphen"/>tors. <hi>Commentar. de Reb. Ad<g ref="char:EOLhyphen"/>miral. fol.</hi> 28. And it is to be ſeen in the old Records in the <hi>Tower:</hi> in a bundle of Parchments above four hundred years ſince, which have reference to the times of <hi>Henry</hi> the third, and <hi>Edward</hi> the firſt. The firſt of theſe Parchment Rolls containing an agreement betwixt <hi>Edward</hi> the firſt,
+<pb n="85" facs="tcp:171810:48"/>and <hi>Guy</hi> Earl of <hi>Flanders,</hi> concerning the colours and Enſignes to be ſet upon ſhips at ſeas to know and diſtinguiſh them, upon one of them on the backſide, is written <hi>de Baion,</hi> but upon the uppermoſt part of every one of them is added <hi>De ſuperioritate Maris An<g ref="char:EOLhyphen"/>gliae, &amp; jure officii Admiral<g ref="char:EOLhyphen"/>litatus in eodem;</hi> (that is) of the ſuperiority or Domini<g ref="char:EOLhyphen"/>on of the ſea of <hi>England,</hi> and of the Office of Ad<g ref="char:EOLhyphen"/>miralty in the ſame. And for the further certainty of the truth hereof, that learn<g ref="char:EOLhyphen"/>ed Mr. <hi>Selden</hi> in his <hi>Mare Clauſum</hi> hath word for word ſet it forth in print,
+<pb n="86" facs="tcp:171810:49"/>amongſt other particulars in it, I have gleaned ſo much, that all the States of forreign Princes, who convened about the ſetling Sea-differences, and there were preſent very many, as from <hi>Genon, Catalonia, Spain, Germany, Zealand, Holland, Frieſland, Denmark</hi> and <hi>Norway,</hi> and further 'tis ex<g ref="char:EOLhyphen"/>preſly ſaid, <hi>Et de Pluſours Autres Lieux de lEmpire,</hi> w<hi rend="sup">th</hi> many other likewiſe of the Empire, yet by all theſe, the then King of <hi>England</hi> was reputed, acknowledged and confeſſed to be as his Predeceſſors time out of mind alwayes had been <hi>En paiſible poſſeſſion de la Soue<g ref="char:EOLhyphen"/>reign
+<pb n="87" facs="tcp:171810:49"/>Seignurie de la mier d' Engleterre el des Iſles eſte auns en Icelle,</hi> (that is) in the peaceable and quiet poſſeſ<g ref="char:EOLhyphen"/>ſion of the Sovereign Do<g ref="char:EOLhyphen"/>minion of the <hi>Engliſh</hi> ſea, and of the Iſlands belong<g ref="char:EOLhyphen"/>ing to the ſame, and they altogether did not onely acknowledge this, but did all deſire, aod crave to be in, and under his defence and ſafe-guard: <hi>Selden in mare Clauſ. lib.</hi> 2. <hi>cap.</hi> 28.</p>
+               <p>And it appears plainly, that we have had the power of the ſeas alſo betwixt <hi>England</hi> and <hi>Ireland,</hi> for it was agreed in Parliament <hi>Ne quis exterus in mare Hi<g ref="char:EOLhyphen"/>bernico piſcaretur</hi> (that is)
+<pb n="88" facs="tcp:171810:50"/>that no ſtranger or for<g ref="char:EOLhyphen"/>reigner ſhould fiſh in our <hi>Iriſh</hi> ſea, except he, or they had firſt obtained leave of the Lord <hi>Deputy,</hi> or from ſome other Officer lawfully appointed to overſee the ſame, or from the King and his Councell: and hereup<g ref="char:EOLhyphen"/>on it was, that there were ſet Rates to be paid for ſe<g ref="char:EOLhyphen"/>verall ſhips, as one or any ſhip of twelve Tuns ſhould pay yearly 13 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> and if leſſer 2. <abbr>
+                     <hi>s.</hi>
+                  </abbr> and in caſe they faild in performance here of then the ſhips, weapons, furniture, and all the goods, to be for prize, <hi>Statut. Hi<g ref="char:EOLhyphen"/>bern.</hi> 5. <hi>Ed.</hi> 4. <hi>C.</hi> 6. and King <hi>James</hi> commanded it, that
+<pb n="89" facs="tcp:171810:50"/>no ſtranger whatſoever, not having leave firſt granted unto him, ſhould fiſh upon the ſeas, <hi>Edict.</hi> 6. <hi>Jacobi</hi> 7.</p>
+               <p>So alſo is it as manifeſt, for our Dominion and power upon the <hi>Northern</hi> ſeas, for King <hi>James</hi> and the Parliament ordered for the ſeas, thus, That all man<g ref="char:EOLhyphen"/>ner of Fiſhers that occupie the Seas, and other perſons whatſoever, who ſlay or kill herring or white fiſh upon the Coaſt, to bring them into free Ports, where<g ref="char:EOLhyphen"/>by his Majeſties Cuſtomes be not defrauded, nor his Highnes Lieges, or Subjects be fruſtrated of the com<g ref="char:EOLhyphen"/>modity appointed unto
+<pb n="90" facs="tcp:171810:51"/>them by God, under the pain of confiſcation of the Veſſells and goods of all that come contrary here<g ref="char:EOLhyphen"/>to, to the Kings uſe, E<g ref="char:EOLhyphen"/>
+                  <hi>dict.</hi> 7. <hi>Jacob. R. Martii</hi> 6. <hi>&amp; Parliam.</hi> 4. <hi>Jac. cap.</hi> 6c.</p>
+               <p>The Reader would be weary if we ſhould produce more examples and Preſi<g ref="char:EOLhyphen"/>dents of this kind, that therefore we may the ſoon<g ref="char:EOLhyphen"/>er conclude this Treatiſe, having already ſufficiently ſhewed our priviledges, au<g ref="char:EOLhyphen"/>thority, power, juriſdicti<g ref="char:EOLhyphen"/>on and Dominion on, and over our ſeas, in the next place we lay open to all men.</p>
+            </div>
+            <div type="part">
+               <pb n="91" facs="tcp:171810:51"/>
+               <head>What miſeries &amp; inconveniencies, our Nation will in ſhort time ſuffer, if we do not uphold our power at ſea againſt all In<g ref="char:EOLhyphen"/>vaders or oppo<g ref="char:EOLhyphen"/>ſers what ſoever Dutch, Danes or French.</head>
+               <p>ANd firſt a generall de<g ref="char:EOLhyphen"/>cay of Trading and
+<pb n="92" facs="tcp:171810:52"/>Merchandiſe, which as it is one of the ſinews of our Land, ſo 'tis as advantageous there's, none ſo ignorant, but knows the ineſtimable be<g ref="char:EOLhyphen"/>nefit that our Nation al<g ref="char:EOLhyphen"/>wayes hath had by forreign traffick, how have thou<g ref="char:EOLhyphen"/>ſands, and ten thouſands been enriched, and made great by it? what famous ſea Captains, and ſeamen hath it maintained alone? what infinite ſummes of Treaſure hath it brought into our land? how doth it keep millions of people in honeſt labour, and helps to the maintaining thouſands of Families, and for certain the decay of it alone will
+<pb n="93" facs="tcp:171810:52"/>quickly be felt through the whole Land; for this there<g ref="char:EOLhyphen"/>fore, if there was nothing elſe to incite all <hi>Engliſh</hi> men it behoves us to our utmoſt to keep up our power at ſea.</p>
+               <p>Secondly Invaſion by for<g ref="char:EOLhyphen"/>reign foes to be feared, eſpecially at this preſent, All our Neigbour Nations are up in Armes, great Navies daily at ſea, we are the people that are the moſt hated and envyed, and oppoſed, how would the <hi>Dutch</hi> and <hi>Dane,</hi> and <hi>Scots,</hi> and <hi>Iriſh</hi> and <hi>French,</hi> with others rejoyce to ſee us rui<g ref="char:EOLhyphen"/>ned by Invaſion, and certain it is our ſafety at Land con<g ref="char:EOLhyphen"/>ſiſts
+<pb n="94" facs="tcp:171810:53"/>in our power at ſea, what calamities and deſo<g ref="char:EOLhyphen"/>lations would not an Inva<g ref="char:EOLhyphen"/>ſion bring in with it? all our juſt Rights and priviledges would be cancelled, our Laws abrogated, our Towns and Cities plundered and fired, our Caſtles deſtroyed, our Liberty loſt, our wives and children and our ſelves made ſlaves or butchered forthwith, all our precious things devoured by ſtran<g ref="char:EOLhyphen"/>gers, and enemies: and therefore, 'tis good for us to maintain our forces and ſhips at ſea, liberally and willingly, and we are all bound to crave Gods bleſ<g ref="char:EOLhyphen"/>ſing and protection to be
+<pb n="95" facs="tcp:171810:53"/>for ever with, and over them.</p>
+               <p>That therefore the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> and <hi>Zealanders</hi> baſe<g ref="char:EOLhyphen"/>neſſe and injuſtice may be unmasked, and all good people of the Land ſatisfied and ſettled in their minds concerning our maintain<g ref="char:EOLhyphen"/>ing our war againſt them, and any other, who ſhall combine with them, for there be thouſands who mutter at the buſineſſe, and ſeem to bear affection to their cauſe, though indeed without cauſe; we wiſh them to conſider theſe fol<g ref="char:EOLhyphen"/>lowing Arguments againſt the <hi>Dutch</hi> fighting with us and for own ſeas.</p>
+            </div>
+            <div type="part">
+               <pb n="96" facs="tcp:171810:54"/>
+               <head>The Dutch inju<g ref="char:EOLhyphen"/>ſtice and Ingra<g ref="char:EOLhyphen"/>titude to Fight againſtour Na<g ref="char:EOLhyphen"/>tion.</head>
+               <p>FIrſt, they begun the war, and kindled the fire, and blowed the firſt Coal. They were the firſt Offendors, ſo 'tis juſt and fitting on our parts to re<g ref="char:EOLhyphen"/>pulſe the injuries and Af<g ref="char:EOLhyphen"/>fronts offered us, that this is true witneſſe the barba<g ref="char:EOLhyphen"/>rous and uncivill uſage ſhewed to that ever Hono<g ref="char:EOLhyphen"/>rable Statſeman the Lord Saint <hi>John,</hi> when he was
+<pb n="67" facs="tcp:171810:54"/>Ambaſſador from our State and reſident at the <hi>Hague,</hi> the harbouring and main<g ref="char:EOLhyphen"/>taining the publick Ene<g ref="char:EOLhyphen"/>mies of our State, their common ſending in Arms, and all manner of warlike proviſion into <hi>Scotland</hi> and other places which were at war with <hi>England;</hi> Adde to theſe their ſcandalous ſe<g ref="char:EOLhyphen"/>ditious pamphlets and books allowed to be print<g ref="char:EOLhyphen"/>ted in the diſparagement of our State and Nation. Theſe things are but ſome of thoſe many, but theſe are all too true.</p>
+               <p>Secondly, as the <hi>Dutch</hi> be<g ref="char:EOLhyphen"/>gan the war, ſo (as they conceived) they took the
+<pb n="98" facs="tcp:171810:55"/>advantage of the time alſo, intending to ſurpriſe us be<g ref="char:EOLhyphen"/>fore we could have been in a ready poſture to receive them, and for certain had not our <hi>State</hi> been prudent to foreſee their craftineſſe, and our Marriners and Land Souldiers as ready and willing to furniſh our ſhips forthwith, they might have effected more on a ſudden upon us, then now they are able, but to come to a period, we give our Countreymen a hint onely.</p>
+               <p n="3">3. Thirdly, as they were crafty to cull out the time, ſo they ſhow themſelves as Ingratefull to ſet againſt us their neighbors, their
+<pb n="99" facs="tcp:171810:55"/>friends, their old and truſty friends, their conſervators, both of life and liberty, of wives, children, towns, and all whatſoever at preſent they have, and what we did for them 'twas freely and throughly performed, wit<g ref="char:EOLhyphen"/>nes that famous battell of <hi>Newport,</hi> when as all the <hi>Dutch</hi> did run the field, and all the <hi>Scots</hi> were kill'd nay, the Prince of <hi>Orange</hi> wept, and gave all for loſt, and was run a ſhip-board, and when the <hi>Spaniards</hi> called openly <hi>Victoria, victoria, ſancta Cruz. &amp; ſancta Maria</hi> yet all this while, though Sir <hi>Francis Veere,</hi> that Re<g ref="char:EOLhyphen"/>nowned Commander was
+<pb n="100" facs="tcp:171810:56"/>alſo ſhot, and could not give direction, yet that re<g ref="char:EOLhyphen"/>ligious and valorous Bro<g ref="char:EOLhyphen"/>ther of his, Sir <hi>Horatio Veere,</hi> with the <hi>Engliſh</hi> Regiments kept the field, and fought it out to the utter overthrow of all the Spaniſh Army, according to that Song compoſed upon that battle.</p>
+               <q>
+                  <l>In Flanders once the field was fought,</l> 
+                  <l>With 40000. men at leaſt,</l>
+                  <l>The Scotchmen ſtoutly held it out,</l>
+                  <l>The Dutchmen ſhew'd them<g ref="char:EOLhyphen"/>ſelves like beaſts.</l>
+                  <l>For moſt men ſay, all ran away</l>
+                  <l>Couragious call'd our Engliſh men.</l>
+                  <pb n="101" facs="tcp:171810:56"/>
+                  <l>But if that we had not ſet them free,</l>
+                  <l>Judge in what caſe they had been then.</l>
+                  <l>We ſpend our blood to do them good,</l>
+                  <l>And help their Countrey to defend.</l>
+                  <l>They pawn their Towns for Engliſh Crowns,</l>
+                  <l>Which our good Queen to them did lend.</l>
+               </q>
+               <p>What can they now, (though ſo ſwel'd w<hi rend="sup">th</hi> pride ſay to this certainly we have deſerved better from them, but what can be ex<g ref="char:EOLhyphen"/>pected from ſuch Boriſh people, But ſuch ungrate<g ref="char:EOLhyphen"/>full returns.</p>
+               <p>Fourthly, as they begun,
+<pb n="102" facs="tcp:171810:57"/>and now, and againſt us, ſo they are as Injurious to fight with us upon this oc<g ref="char:EOLhyphen"/>caſion for defending our own goods, our own juſt Rights, our freedome, and ſea priviledges, which do not in any the leaſt manner belong unto them; 'tis true, they have been many years proling, and attempting, but now they take open arms to infeſt <hi>us.</hi>
+               </p>
+               <p>Fifthly, not by themſelves alone, but by ſolliciting o<g ref="char:EOLhyphen"/>ther Nations to help them, as if it were not enough for themſelves to do Injury, ex<g ref="char:EOLhyphen"/>cept they fetch in other Confederates to make us, if they can miſerable to the
+<pb n="103" facs="tcp:171810:57"/>utmoſt; and to this purpoſe they ſend their Agents to <hi>France</hi> to <hi>Denmark,</hi> to <hi>Swe<g ref="char:EOLhyphen"/>den,</hi> to <hi>Germany,</hi> with hor<g ref="char:EOLhyphen"/>rible and falſe Suggeſtions, and Informations againſt this Common-wealth of <hi>England,</hi> the ſooner to in<g ref="char:EOLhyphen"/>cite them to fight againſt us of this Nation; and if poſſible utterly to ruine us; But we leave them know<g ref="char:EOLhyphen"/>ing that as their beginning of war was ſimply unjuſt, ſo the end of it will prove as miſerable and deſtructive to the Proſecutors of it, O <hi>Dutch Hollander,</hi> remember we ſay, remember what wil do in the end thereof, take one line more.</p>
+               <pb n="104" facs="tcp:171810:58"/>
+               <q>
+                  <l>With pride they are ſo puft, and blown,</l>
+                  <l>That ev'ry bore's becom a State</l>
+                  <l>Their former life is no more known,</l>
+                  <l>But forget what we did of late</l>
+                  <l>They boaſt and ſay, we muſt a<g ref="char:EOLhyphen"/>way,</l>
+                  <l>Ev'n home unto our Native Land.</l>
+                  <l>But ere 6. year we greatly fear,</l>
+                  <l>They'l wiſh that we did by them ſtand.</l>
+               </q>
+               <p>But to conclude our ſub<g ref="char:EOLhyphen"/>ject, we may aſſuredly ſay, that <hi>perit quodfacis Ingrato,</hi> Save a thief fro<g ref="char:cmbAbbrStroke">̄</g> the gallows and hee'l be the firſt to do you a miſchief, for certain 'tis that theſe <hi>Dutch</hi> ever ſince the coming in of King <hi>James</hi> to the Crown of
+<pb n="105" facs="tcp:171810:58"/>
+                  <hi>England,</hi> have been the <hi>ſpunges</hi> of <hi>Englands</hi> Trea<g ref="char:EOLhyphen"/>ſure, &amp; have bin the people above all others who have decryed and vilified our Nation, in all the Eaſt and Southern parts of the world; and not onely ſo, but have fomented occaſions of quarrels, and raiſed ſcanda<g ref="char:EOLhyphen"/>lous jealouſies of our Nati<g ref="char:EOLhyphen"/>on towards them, and upon meere falſe informations have rigorouſly, nay bar<g ref="char:EOLhyphen"/>barouſly proceeded to the murthering our Mer<g ref="char:EOLhyphen"/>chants and Factors where<g ref="char:EOLhyphen"/>ever they could lay hands upon them, before ever they gave the leaſt intima<g ref="char:EOLhyphen"/>tion of the crimes commit<g ref="char:EOLhyphen"/>ted
+<pb n="106" facs="tcp:171810:59"/>to our State, or indeed before and fault was really per petrated by our Nation to them in thoſe parts.</p>
+               <p>And wee cannot think their intentions to be alte<g ref="char:EOLhyphen"/>red from what they were: we ſhall be ſure to find them worſe againſt us, now if they obtain that which they have been long ende<g ref="char:EOLhyphen"/>vouring, <hi>viz. The Domini<g ref="char:EOLhyphen"/>on of the ſeas</hi>) and therefore
+<q>
+                     <l>Brave England have a care thy ſeas to defend,</l>
+                     <l>Thou needſt not fear whether Dutch be thy foe, or friend.</l>
+                  </q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171810:59"/>
+         </div>
+      </body>
+   </text>
+</TEI>
